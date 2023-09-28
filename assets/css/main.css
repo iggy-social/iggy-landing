@@ -751,6 +751,10 @@ section {
   transition: 0.3s;
 }
 
+.clients .swiper-slide {
+  width: 50px;
+}
+
 .clients .swiper-slide img:hover {
   transform: scale(1.1);
 }
